@@ -3,6 +3,8 @@ import time
 # import timeit
 from math import factorial
 
+# Copyright (c) 2023 Hryharovich Daniil
+# MIT License
 
 random = rn.SystemRandom()
 arr = [5, 22222, 54, 8, 6, 9]
