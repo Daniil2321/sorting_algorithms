@@ -3,7 +3,7 @@ import time
 # import timeit
 from math import factorial
 
-# Copyright (c) 2023 Hryharovich Daniil
+# Copyright (c) 2024 Hryharovich Daniil
 # MIT License
 
 random = rn.SystemRandom()
